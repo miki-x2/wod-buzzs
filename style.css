@@ -1,0 +1,21 @@
+body{
+  background: url("https://courses.ics.hawaii.edu/ics314f23/morea/ui-frameworks/wod-buzzs-background.jpg") no-repeat center center fixed;
+  --bs-light-rgb: 48,73,95;
+  background-size: cover;
+  font-family: "Times New Roman";
+}
+
+.nav-link{
+  --bs-nav-link-color:white;
+}
+footer{
+  background-color: white;
+
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+}
+
+.photo{
+  padding: 15px;
+}
